@@ -167,7 +167,7 @@ mohit singh
 - Marcus Bell
 - REEEEEEEEEEEEE
 - [Harshit Varma](https://github.com/hrshtv)
--Harshu
+- [Harshu1470](https://github.com/harshu1470)
 - Colin Nelson
 - [Moises Miguel](https://github.com/moimigueldev) 
 -Praveenkumar
